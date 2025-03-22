@@ -1,0 +1,7 @@
+train: C:\Users\Alexey\Desktop\archive\PART_1\PART_1\train\images
+val: C:\Users\Alexey\Desktop\archive\PART_1\PART_1\valid\images
+test: C:\Users\Alexey\Desktop\archive\PART_1\PART_1\test\images
+
+nc: 6
+names: ['human', 'wind_sup-board', 'boat', 'bouy', 'sailboat', 'kayak']
+
