@@ -3,5 +3,3 @@
 Разработка решения, позволяющего распознать типы надводных объектов на снимках с дрона: люди, лодки, спасательные круги и т. д. на основе набора данных с Kuggle:
 https://www.kaggle.com/datasets/jangsienicajzkowy/afo-aerial-dataset-of-floating-objects
 
-Часть кода заимствует решение представленное на Kuggle:
-https://www.kaggle.com/code/ugorjiir/rescuefobj 
