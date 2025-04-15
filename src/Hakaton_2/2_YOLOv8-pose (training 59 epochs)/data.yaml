@@ -1,0 +1,13 @@
+# Путь к корневой папке датасета (относительно data.yaml или абсолютный)
+path: C:/Users/Alexey/Desktop/razmetka/datasets/fall_stand_dataset 
+train: images/train  # Путь к папке с обучающими изображениями относительно 'path'
+val: images/val    # Путь к папке с валидационными изображениями относительно 'path'
+# test: images/test # Опционально, если есть тестовая выборка
+
+# Параметры для Pose модели
+kpt_shape: [17, 3]  # 17 точек, 3 значения (x, y, visibility)
+
+# Классы
+names:
+  0: standing person
+  1: fall person
